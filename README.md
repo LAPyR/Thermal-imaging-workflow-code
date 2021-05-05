@@ -14,8 +14,8 @@ missing code:
 *CWSI code*
 
 
-Andres Montes de Oca
-PhD. Student at CIO
+Andres Montes de Oca <br />
+PhD. Student <br />
 andresmr@cio.mx
 
 🍀
