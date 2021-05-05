@@ -7,11 +7,11 @@ undistort.py is a script that corrects the imagery, using the distortion coeffic
 
 missing code:
 
-*matlab camera calibrator code*
+---> *matlab camera calibrator code*
 
-*temperature calibration code*
+---> *temperature calibration code*
 
-*CWSI code*
+---> *CWSI code*
 
 
 Andres Montes de Oca <br />
