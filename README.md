@@ -9,6 +9,8 @@ Scripts required to compute calibrated thermal imagery with the Boson 640.
 
 --calibration_cwsi.m is the matlab code to perform the temperature calibration over the thermal orthomosaic, and also to perform the CWSI computation. Note that the code requires the image "parque1_undist.tif".
 
+--to generate the orthomosaic from the aerial imagery we use WebODM from https://www.opendronemap.org/webodm/.
+
 More info: <br />
 Andres Montes de Oca <br />
 PhD. Student <br />
